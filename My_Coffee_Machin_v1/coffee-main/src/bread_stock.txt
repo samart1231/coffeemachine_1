@@ -1,0 +1,6 @@
+Bagel,1
+Croissant,10
+Naan,10
+Pita,1
+Whole Wheat,6
+Whole Wheat Bread,10

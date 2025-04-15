@@ -1,0 +1,4 @@
+Whole Wheat x4,8.00
+Bagel x2,3.00
+Cappuccino (Iced, Small, Milk and Sugar),4.00
+Total,15.00
